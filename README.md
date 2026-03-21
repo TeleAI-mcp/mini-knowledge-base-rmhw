@@ -1,2 +1,3 @@
-# mini-knowledge-base-rmhw
+# Mini Knowledge Base Rmhw
+
 A repository to test GitHub automation for issue management.
